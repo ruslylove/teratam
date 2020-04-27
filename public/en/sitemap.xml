@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://teratam.com/projects/tlm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://teratam.com/projects/hms/</loc>
+  </url>
+  
+  <url>
     <loc>http://teratam.com/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
@@ -18,44 +26,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://teratam.com/projects/photography/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://teratam.com/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://teratam.com/es/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://teratam.com/de/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://teratam.com/projects/design/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://teratam.com/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://teratam.com/es/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://teratam.com/de/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://teratam.com/projects/writing/"
                 />
   </url>
   
@@ -99,6 +69,44 @@
   </url>
   
   <url>
+    <loc>http://teratam.com/projects/design/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://teratam.com/es/projects/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://teratam.com/de/projects/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://teratam.com/projects/design/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://teratam.com/projects/writing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://teratam.com/es/projects/writing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://teratam.com/de/projects/writing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://teratam.com/projects/writing/"
+                />
+  </url>
+  
+  <url>
     <loc>http://teratam.com/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
@@ -110,26 +118,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://teratam.com/blog/hipster-ipsum/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://teratam.com/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://teratam.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://teratam.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://teratam.com/"
                 />
   </url>
   
@@ -170,6 +158,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://teratam.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://teratam.com/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://teratam.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://teratam.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://teratam.com/"
                 />
   </url>
   
