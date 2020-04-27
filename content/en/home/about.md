@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "high-volt.jpg"
 weight: 8
 ---
 

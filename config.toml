@@ -11,7 +11,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "youremail@email.com"   # E-mail address for contact section
+    email                        = "teratam.b@eng.kmutnb.ac.th"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
@@ -22,7 +22,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
         localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "America/Los_Angeles"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeZone                 = "Asia/Bangkok"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "h:mm A"                # https://momentjs.com/docs/#/displaying/format/
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
@@ -54,8 +54,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     [[params.social]]
-        url   = "https://mastodon.social/"
-        icon  = "mastodon" # icon name without the 'fa-'
+        url   = "https://line.me/"
+        icon  = "line" # icon name without the 'fa-'
         icon_pack = "fab"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
 
@@ -81,7 +81,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Teratam"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)

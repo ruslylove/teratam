@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-weight: 1
+weight: 10
 ---
 
 ## Sometimes I take pictures

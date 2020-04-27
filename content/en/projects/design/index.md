@@ -1,6 +1,6 @@
 ---
 title: "Design"
-weight: 2
+weight: 20
 resources:
     - src: plant.jpg
       params:
