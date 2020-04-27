@@ -1,6 +1,6 @@
 ---
-title: Hi, We're TERATAM.
+title: "Hi, I'm Introduction"
 headless: true
-
 ---
-We're the most advanced research group in Electrical Power System.
+
+I'm a theme for Hugo
