@@ -1,9 +1,7 @@
 ---
-title: "Transformer Load Monitoring"
-weight: 1
-external_link: "https://tlm.mea.teratam.com"
+title: Transformer Load Monitoring
+weight: "1"
+external_link: ''
+
 ---
-
-Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop. Latte instant black extra aroma, instant, extra robusta variety skinny shop aged cup ristretto foam cortado. Bar galão skinny saucer est affogato sugar caffeine chicory sugar coffee, seasonal barista french press acerbic in chicory robust.
+This project is funded by Metropolitan Electricity Authority (MEA) providing statuses and conditional monitoring of Distribution Transformers in Bangkok and perimeter. The demonstration of the project page can be found at [https://tlm.mea.teratam.com](https://tlm.mea.teratam.com "https://tlm.mea.teratam.com") (a guest user can login using username: test@tlm.com and password: 123456)
